@@ -4,7 +4,7 @@ Competition link：https://tianchi.aliyun.com/competition/entrance/531830/introd
 
 Ranking list link： https://tianchi.aliyun.com/competition/entrance/531830/rankingList
 
-Current Ranking: 15/2550
+Current Ranking: 17/2756
 
 Name of Contestants: 萌新求组队
 
@@ -16,3 +16,4 @@ Major Work:
 * Utilized **target encoding** technics to extract informaion from **high-cardinality categorical features** (>100 distinct values) (regioncode,employmentTitle,postCode,etc.)  
 Reference: [A Preprocessing Scheme for High-Cardinality Categorical Attributes in Classification and Prediction Problems](https://dl.acm.org/doi/10.1145/507533.507538)
 * Model fusion with empirical weights based on valid_AUC performances, induced test_AUC increasing from 0.7388 to 0.7397)
+
